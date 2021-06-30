@@ -17,7 +17,7 @@ In this Kaggle competition, you’ll benchmark machine learning models on a chal
 - Open Fraud Detector.ipynb to train and use the model
 
 ## Authors
-https://www.linkedin.com/in/niazkhan04/
+(Shohrab Hossen Niaz)[linkedin.com]
 
 ## License
 This project is licensed under the [Apache License 2.0] License - see the LICENSE.md file for details
